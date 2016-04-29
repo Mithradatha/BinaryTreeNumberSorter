@@ -67,7 +67,7 @@
   <ItemGroup>
     <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="Node.h" />
-    <ClInclude Include="RandomNumberGenerator.h" />
+    <ClInclude Include="RNG.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Driver.cpp" />
